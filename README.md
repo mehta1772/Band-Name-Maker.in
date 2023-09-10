@@ -18,29 +18,6 @@ This is a fun and creative project that generates unique and quirky band names u
 - **JavaScript**: JavaScript is used for interactivity and generating random band names.
 - **GitHub**: The project is hosted on GitHub for version control and collaboration.
 
-## Usage
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/mehta1772/band-Name-Maker.git
-   ```
-
-2. Install the necessary dependencies:
-
-   ```bash
-   cd band-Name-Maker
-   npm install
-   ```
-
-3. Start the server:
-
-   ```bash
-   npm start
-   ```
-
-4. Open your web browser and navigate to `http://localhost:3000` to access the band-Name-Maker
-
 ## Contributing
 
 Contributions are welcome! If you'd like to enhance the project or fix any issues, please follow these steps:
